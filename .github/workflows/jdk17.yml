@@ -1,4 +1,4 @@
-name: Build
+name: Build with JDK17
 
 on:
   push:
